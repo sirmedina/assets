@@ -1,0 +1,27 @@
+body{
+	background: #333;
+}
+
+/*USAR !important*/
+
+header{
+	width: 100%;
+	background: #aaa;
+	margin: 0%;
+	height: 4em;
+}
+
+#content{
+	 background: #0cf;
+	 z-index: 999;
+	 height: 10em;
+}
+
+footer{
+	width: 100%;
+	background: #aaa;
+	margin: 0%;
+	height: 3em;
+	position: absolute;
+	bottom: 0;
+}
